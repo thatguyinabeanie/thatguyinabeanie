@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Snake animation](https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--
 **thatguyinabeanie/thatguyinabeanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
