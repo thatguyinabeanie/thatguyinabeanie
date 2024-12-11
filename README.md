@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Snake animation](https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</picture>
 
 
 <!--
