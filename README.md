@@ -44,8 +44,3 @@ I'm a passionate developer with a love for coding and problem-solving.
 <!-- - [Title of your blog post](link to your blog post) -->
 <!-- - [Title of your blog post](link to your blog post) -->
 <!-- BLOG-POST-LIST:END -->
-
-
-## 🐍 Snek
-
-
