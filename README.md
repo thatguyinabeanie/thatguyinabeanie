@@ -1,6 +1,12 @@
-# Hi there, I'm Gabe Mendoza! AKA thatguyinabeanie! 👋
+# Hi there, I'm thatguyinabeanie! 👋
 
-Welcome to my GitHub profile! 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</picture>
+
+Welcome to my GitHub profile!
+
 I'm a passionate developer with a love for coding and problem-solving.
 
 ## 🔧 Technologies & Tools
@@ -42,7 +48,4 @@ I'm a passionate developer with a love for coding and problem-solving.
 
 ## 🐍 Snek
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</picture>
+
