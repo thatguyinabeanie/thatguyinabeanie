@@ -1,8 +1,13 @@
 # Hi there, I'm thatguyinabeanie! 👋
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <source
+    srcset="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  >
+  <img src="https://raw.githubusercontent.com/thatguyinabeanie/thatguyinabeanie/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  >
 </picture>
 
 Welcome to my GitHub profile!
@@ -19,16 +24,15 @@ I'm a passionate developer with a love for coding and problem-solving.
 ![LazyVim/NeoVim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
 ![Nushell](https://img.shields.io/badge/-Nushell-333333?style=flat&logo=nushell)
 
-
 ## ⚡️ A Little More About Me
+
 - 😄 Pronouns: he/him
 - 🔭 Currently working on a website for competitive pokemon, [Battle Stadium](https://battlestadium.gg)
 - 🌱 Currently learning modern NextJS, Neovim, and Obsidian
 - 👯 Looking to collaborate on NextJS Projects
 - 💬 Ask me about Competitive Pokemon VGC
 - 📫 How to reach me: `@thatguyinabeani` on twitter
-- ⚡ Fun fact: In highschool, I played on stage at the Chicago House of Blues for 1 song. 
-
+- ⚡ Fun fact: Played on stage at the Chicago House of Blues for 1 song.
 
 ## 📈 GitHub Stats
 
