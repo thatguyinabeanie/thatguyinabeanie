@@ -1,4 +1,8 @@
-# Hi there, I'm thatguyinabeanie! 👋
+# <div align="center">✨ Welcome to My Cosmic Corner of GitHub 🌌
+
+<div align="center">
+  
+  ![Cosmoem](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/790.png)
 
 <picture>
   <source
@@ -10,11 +14,13 @@
   >
 </picture>
 
-Welcome to my GitHub profile!
+</div>
 
-I'm a passionate developer with a love for coding and problem-solving.
+## 🌠 About Me
 
-## 🔧 Technologies & Tools
+I'm a passionate developer exploring the vast universe of code! Currently orbiting around web development and competitive Pokemon.
+
+## 🛠️ Technology Arsenal
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -24,25 +30,29 @@ I'm a passionate developer with a love for coding and problem-solving.
 ![LazyVim/NeoVim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
 ![Nushell](https://img.shields.io/badge/-Nushell-333333?style=flat&logo=nushell)
 
-## ⚡️ A Little More About Me
+## 🌟 Cosmic Facts
 
 - 😄 Pronouns: he/him
-- 🔭 Currently working on a website for competitive pokemon, [Battle Stadium](https://battlestadium.gg)
-- 🌱 Currently learning modern NextJS, Neovim, and Obsidian
-- 👯 Looking to collaborate on NextJS Projects
-- 💬 Ask me about Competitive Pokemon VGC
-- 📫 How to reach me: `@thatguyinabeani` on twitter
-- ⚡ Fun fact: Played on stage at the Chicago House of Blues for 1 song.
+- 🚀 Currently working on [Battle Stadium](https://battlestadium.gg), a website for competitive pokemon
+- 🌱 Exploring the mysteries of modern NextJS, Neovim, and Obsidian
+- 👾 Looking to collaborate on NextJS Projects
+- 🎮 Ask me about Competitive Pokemon VGC
+- 📡 Reach me: `@thatguyinabeani` on twitter
+- 🎸 Fun fact: Performed on stage at the Chicago House of Blues for 1 song!
 
-## 📈 GitHub Stats
+## ⭐ Celestial Stats
+
+<div align="center">
 
 ![thatguyinabeanie's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatguyinabeanie&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
+## 🌌 Most Used Technologies
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatguyinabeanie&layout=compact&theme=radical)
 
-<!-- ## 📝 Latest Blog Posts -->
+</div>
+
+<!-- ## 📝 Cosmic Chronicles -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Title of your blog post](link to your blog post) -->
